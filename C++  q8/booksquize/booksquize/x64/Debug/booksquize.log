@@ -1,0 +1,4 @@
+﻿  book.cpp
+  booksquize.cpp
+  Generating Code...
+C:\Users\nadun\Desktop\tr\book\booksquize\booksquize\book.cpp(23,1): error C4700: uninitialized local variable 'id' used
