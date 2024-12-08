@@ -1,0 +1,3 @@
+﻿  patient.cpp
+C:\Users\nadun\Desktop\tr\asss4\asss44\asss44\patient.cpp(28,22): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  asss44.vcxproj -> C:\Users\nadun\Desktop\tr\asss4\asss44\x64\Debug\asss44.exe
