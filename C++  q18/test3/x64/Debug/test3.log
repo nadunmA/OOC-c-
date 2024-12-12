@@ -1,0 +1,5 @@
+﻿  shapeArea.cpp
+C:\Users\nadun\Desktop\tr\test3\test3\shapeArea.cpp(6,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  test3.cpp
+  Generating Code...
+  test3.vcxproj -> C:\Users\nadun\Desktop\tr\test3\x64\Debug\test3.exe
